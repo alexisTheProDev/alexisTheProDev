@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexisTheProDev
+- 👀 I’m interested in Java, learning programming skills, make new friends and learn more bout my favourite programming languages.
+- 🌱 I’m currently learning Java, Python, SQL, JavaScript and Git.
+- 💞️ I’m looking to collaborate on small and big projects.
+- 📫 How to reach me: afafajaah28@icloud.com
